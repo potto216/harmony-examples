@@ -1,0 +1,14 @@
+# mkdir harmony
+# cd harmony
+# python --version
+# python -m venv .harmony
+# source .harmony/bin/activate
+# python -m pip install --upgrade pip
+# pip install wheel
+# pip install -r requirements.txt
+jupyterlab
+numpy
+matplotlib
+pandas
+pymongo
+
